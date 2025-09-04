@@ -28,7 +28,11 @@ export default function AppNavigator() {
       }}
     >
       <Stack.Navigator>
-        <Stack.Screen name="MainTabs" component={MainTabs} options={{ headerShown: false }} />
+        <Stack.Screen
+          name="MainTabs"
+          component={MainTabs}
+          options={{ headerShown: false }}
+        />
         <Stack.Screen name="User" component={UserDetailScreen} />
       </Stack.Navigator>
     </NavigationContainer>
