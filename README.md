@@ -1,8 +1,8 @@
-# 🛒 React Native Hiring Task
+# React Native Hiring Task 
 
-This project is a quick product + cart app built for the hiring task.
+This project is a quick product + cart app built as the hiring task.
 
-## ✅ What We Built
+## What I Built
 - **Products Screen** – Displays 500+ products with smooth scrolling (VirtualizedList).
 - **Cart Screen** – Add & remove products in real-time.
 - **Clean State Management** – Cart and product list stay in sync.
@@ -11,7 +11,7 @@ This project is a quick product + cart app built for the hiring task.
 
 Basically — you open the app, browse products, throw them in the cart, remove if you change your mind, and it just works.  
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repo  
 2. Install dependencies  
 ```bash
